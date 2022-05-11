@@ -12,7 +12,7 @@ namespace PizzeriaWebApp.Utils.Validation
 
             if(fieldValue == null || fieldValue.Trim().IndexOf(" ") == -1)
             {
-
+                
                 return new ValidationResult("Il campo deve contenere almeno due parole");
 
             }
