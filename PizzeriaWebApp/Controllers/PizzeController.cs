@@ -1,5 +1,4 @@
-﻿
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using PizzeriaWebApp.Models;
 using PizzeriaWebApp.Utils;
 
